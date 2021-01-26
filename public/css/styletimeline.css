@@ -1,0 +1,98 @@
+body{
+	background-color: #fafafa;
+	font-family: 'Roboto', sans-serif;
+}
+/*Navbar*/
+.navbar{
+	background-color: #1F3C88;
+	font-family: 'Roboto Mono';
+	padding-bottom: ;
+}
+.navbar .navbar-brand{
+	float :left;
+	margin-left: 20px;
+}
+.navbar .form-inline{
+	margin-right: 20px;
+}
+.navbar #teks-nav{
+	color: #ffffff;
+	font-size: 14px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+button{
+	font-weight: bold;
+	color: #1F3C88;
+	background-color: #FBE99E;
+	border-radius: 100px;
+	border-color: #FBE99E;
+	width: auto;
+	padding: 2px 24px 2px 24px;
+	font-size: 14px;
+}
+/* -------------------------- */
+
+/* Konten */
+.konten{
+	margin: 40px 10% 0px 10%;
+}
+
+.highlight{
+	margin: 0px 0px 40px 0px;
+}
+.pmry-high{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.scn-high{
+	width: 50%;
+	margin: 10px 0px 10px 0px;
+	float: right;
+}
+.scn-high #img{
+	float: right;
+
+}
+
+.scn-line{
+	margin: 80px 0px 40px 0px;
+}
+.scn-left{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.topik{
+	text-align: center;
+}
+.scn-right{
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+.scn-right .row{
+	margin: 20px 0px 20px 0px;
+}
+
+.latest {
+	margin: 200px 0px 40px 0px;
+	text-align: center;
+}
+.lst-post{
+	margin: 20px 20% 20px 20%;
+}
+.lst-post .teks{
+	text-align: left;
+}
+/*----------------------------------*/
+
+/*Footer*/
+.footer{
+	text-align: center;
+	background-color: #1F3C88;
+	margin: 0px 25% 0px 25%;
+	border-radius: 100px;
+	color:#1F3C88;
+}

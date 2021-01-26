@@ -1,0 +1,110 @@
+body{
+	background-color: #fafafa;
+	font-family: 'Roboto', sans-serif;
+}
+/*Navbar*/
+.navbar{
+	background-color: #1F3C88;
+}
+.navbar .navbar-brand{
+	float :left;
+	margin-left: 20px;
+}
+.navbar .form-inline{
+	margin-right: 20px;
+}
+#teks-nav{
+	color: #ffffff;
+	font-size: 14px;
+	margin-left: 8px;
+	margin-right: 8px;
+	font-family: 'Roboto Mono';
+	text-decoration: none;
+}
+button{
+	font-weight: bold;
+	color: #1F3C88;
+	background-color: #FBE99E;
+	border-radius: 100px;
+	border-color: #FBE99E;
+	width: auto;
+	padding: 2px 24px 2px 24px;
+	font-size: 14px;
+}
+/* -------------------------- */
+
+/*Konten*/
+.konten{
+	margin: 20px 5% 20px 5%;
+}
+.filter{
+	margin: 30px 5% 0 5%;
+	padding: 10px 20px 10px 20px;
+	border-radius: 15px;
+	background-color: #1F3C88;
+}
+.btn{
+	background-color: #fafafa;
+}
+.btn-group{
+	margin-right: 8px;
+}
+.d-flex{
+	max-width: 400px;
+	float: right;
+}
+.form-control{
+	border-radius: 10px
+}
+.dropdown-toggle{
+	border-radius: 10px
+}
+.btn-outline-success {
+  color: #1f3c88;
+  border-color: #1f3c88;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.btn-outline-success:hover,
+.btn-outline-success:focus {
+  color: #fbe99e;
+  background-color: #1f3c88;
+  border-color: #fbe99e;
+}
+/*---------------------------*/
+
+.kampus{
+	margin: 40px 5% 0px 5%;
+}
+.card{
+	background-color: #fafafa;
+	border: 0px;
+	text-align: center;
+}
+#card-header{
+	background-color: #fafafa; 
+	margin: 100px 10% 0px 10%;
+}
+.card-header-img{
+	width: 400px;
+}
+.card-title-header{
+	margin-top: 40px;
+	font-weight: bold;
+}
+.card-img-top{
+	width: 125px;
+	margin: 10px 33% 0 33%;
+	text-align: center;
+}
+.card-title{
+	font-weight: bold;
+}
+.card-text{
+	color: #0055FF;
+	font-weight: bold;
+}
+/*---------------------------*/
